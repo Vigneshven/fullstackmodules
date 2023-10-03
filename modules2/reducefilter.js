@@ -4,10 +4,10 @@
 
 
 // const students =[
-//     { name: "yes", age: 24},
-//     { name: "leo", age: 45},
-//     { name: "harold", age: 50},
-//     { name: "antony", age: 60},
+//     { name: "viki", age: 24},
+//     { name: "vignesh", age: 45},
+//     { name: "v vignesh", age: 50},
+//     { name: "vignesh v", age: 60},
 // ];
 
 // const filterstudent =students.filter((stud, index)=>
