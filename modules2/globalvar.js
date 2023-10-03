@@ -1,10 +1,10 @@
-var fullname = "yeswanth reddy";
+var fullname = "vignesh";
 
 
 function greet(){
 
-    fullname ="yeswanth reddy";
-    var age = 24;
+    fullname ="vignesh";
+    var age = 19;
     console.log(fullname);
     console.log(age);
 }
